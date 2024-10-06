@@ -10,7 +10,7 @@ INSTRUCTIONS:
 6. Press enter
 7. Paste the "ipm" folder there
 8. Open terminal
-9. Type "sudo chmod +x " and drag and drop the script from inside the folder(include the space in the command)
+9. Type "sudo chmod +x "(include the space in the command) and drag and drop the "run.command" script from inside the folder in the Terminal
 10. Go back to Finder
 11. Right-click the script and select "Open With", followed by "Other"
 12. Go to Applications, then to Utilites and select terminal
