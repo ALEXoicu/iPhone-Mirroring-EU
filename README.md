@@ -2,21 +2,22 @@
 Use iPhone Mirroring in the EU(Compatible with SIP)
 
 INSTRUCTIONS:
-1. Download the latest release
+1. Download and extract the contents of this repository
 2. Open Finder
-3. Press Shift+Command+G
-4. Delete everything and type "~"(without quotation marks)
-5. Press enter
-6. Copy the "ipm" folder there
-7. Open terminal
-8. Type "sudo chmod +x " and drag and drop the script from inside the folder(include the space in the command)
-9. Go back to finder
-10. Right-click the script and select "Open With", followed by "Other"
-11. Go to Applications, then to Utilites and select terminal
-12. Check the "Always Open With" checkbox
-13. Click "Open"
-14. Type in your passcode
-15. DONE
+3. Copy the "ipm" folder to your clipboard
+4. Press Shift+Command+G
+5. Delete everything and type "~"(without quotation marks)
+6. Press enter
+7. Paste the "ipm" folder there
+8. Open terminal
+9. Type "sudo chmod +x " and drag and drop the script from inside the folder(include the space in the command)
+10. Go back to Finder
+11. Right-click the script and select "Open With", followed by "Other"
+12. Go to Applications, then to Utilites and select terminal
+13. Check the "Always Open With" checkbox
+14. Click "Open"
+15. Type in your passcode
+16. DONE
 
  If you have SIP enabled, you will have to run the script on every reboot(or every time you want to use iPhone Mirroring after a reboot)!
  Make sure to change your Media and Purchases Apple ID to a US one on your iPhone!
