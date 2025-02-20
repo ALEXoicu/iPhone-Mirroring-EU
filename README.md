@@ -1,4 +1,7 @@
 # iPhone-Mirroring-EU
+
+# WARNING: THIS SCRIPT IS OUTDATED! IT WILL NOT WORK ON NEWER VERSIONS OF MACOS, THE "eligibility.plist" FILE NEEDS TO BE MANUALLY COPIED TO "/private/var/db/os_eligibility/eligibility.plist"
+
 Use iPhone Mirroring in the EU(Compatible with SIP)
 
 INSTRUCTIONS:
